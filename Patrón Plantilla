@@ -1,0 +1,5 @@
+"En ingeniería de software, el patrón de método de la plantilla es un patrón de diseño de comportamiento que define el esqueleto de programa de un algoritmo en un método, 
+llamado método de plantilla, el cual difiere algunos pasos a las subclases.
+  1 Permite redefinir ciertos pasos seguros de un algoritmo sin cambiar la estructura del algoritmo.
+  2 Este uso de "plantilla" no está relacionado con plantillas de C++."
+REFERENCIA: https://es.wikipedia.org/wiki/Patr%C3%B3n_de_m%C3%A9todo_de_la_plantilla
